@@ -14,7 +14,7 @@ function setup() {
 }
 
 function draw() {
- background(220);
+ background(0,200,100);
  ellipse(50,50,100)
  
  t.position(x,y)
